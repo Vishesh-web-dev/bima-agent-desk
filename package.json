@@ -1,0 +1,16 @@
+{
+  "name": "bima-agent-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plan, WhatsApp messages and renewal tracker for a National Insurance agent.",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.2.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
